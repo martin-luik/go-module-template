@@ -1,4 +1,4 @@
-module training
+module example
 
 go 1.16
 

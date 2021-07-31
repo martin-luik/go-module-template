@@ -1,6 +1,6 @@
 package app
 
-import "training/internal/example"
+import "example/internal/example"
 
 type Composition struct {
 	ExampleController example.Controller

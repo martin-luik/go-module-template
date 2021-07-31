@@ -1,9 +1,9 @@
 package main
 
 import (
+	"example/internal/app"
 	"log"
 	"net/http"
-	"training/internal/app"
 )
 
 func main() {
